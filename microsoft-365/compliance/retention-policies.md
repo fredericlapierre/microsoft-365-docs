@@ -261,6 +261,7 @@ However, note that the following limits exist when you configure a retention pol
     - 1,000 mailboxes
     - 1,000 Office 365 groups
     - 1,000 users for Teams private chats
+    - 1,000 Teams for Channel Messages
     - 100 sites (OneDrive or SharePoint)
 
 - A tenant can contain no more than 10,000 retention policies.
